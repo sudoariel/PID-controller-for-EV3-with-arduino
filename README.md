@@ -32,3 +32,6 @@ The wires connected to A4 and A5 in Arduino are there in order to make the I2C c
 ![I2C schematic](fig7.png)
 
 The image above shows the schematic about the connection between the Arduino and the EV3.
+
+## Project pictures
+![Project](photo1.jpg)
