@@ -25,4 +25,4 @@ This project is an project about Arduino (free hardware electronic prototyping p
 
 ## Schematics
 ### Arduino and LCD display connection schematic
-![Arduino schematic](img8.png)
+![Arduino schematic](fig8.png)
