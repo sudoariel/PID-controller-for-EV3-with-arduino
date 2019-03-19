@@ -35,3 +35,6 @@ The image above shows the schematic about the connection between the Arduino and
 
 ## Project pictures
 ![Project](photo1.jpg)
+
+## Documentation
+Documentation available [here](documentation_pt-BR.pdf).
