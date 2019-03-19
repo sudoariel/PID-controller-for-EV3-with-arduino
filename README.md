@@ -1,7 +1,9 @@
 # PID Controller for EV3 with Arduino
 ---
 Author: Ariel Lima Andrade
+
 Email: lima.ariel97@gmail.com
+
 All rights reserved
 
 ---
