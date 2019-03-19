@@ -4,7 +4,7 @@ Author: Ariel Lima Andrade
 
 Email: lima.ariel97@gmail.com
 
-All rights reserved
+All rights reserved.
 
 ---
 Arduino PID controller for EV3
