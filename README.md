@@ -26,7 +26,9 @@ This project is an project about Arduino (free hardware electronic prototyping p
 ## Schematics
 ### Arduino and LCD display connection schematic
 ![Arduino schematic](fig8.png)
+
 The wires connected to A4 and A5 in Arduino are there in order to make the I2C connection to the EV3.
 ### I2C schematic
 ![I2C schematic](fig7.png)
+
 The image above shows the schematic about the connection between the Arduino and the EV3.
