@@ -13,7 +13,7 @@ Arduino PID controller for EV3
 ---
 
 ## Introduction
-This project is an project about Arduino (free hardware electronic prototyping platform) with Lego Mindstorms EV3 (programming platform for LEGO robot development) integration. The EV3 has the I2C communication interface, as well as the Arduino, thus enabling the integration of these platforms. In this project, the Arduino acts as a PID controller, in order to control the positioning of the axis of a motor, in which beams are coupled to support some object so that the axis is always balance itself in the desired position regardless of the mass of the object (respecting engine limitations).
+This project is a project about Arduino (free hardware electronic prototyping platform) with Lego Mindstorms EV3 (programming platform for LEGO robot development) integration. The EV3 has the I2C communication interface, as well as the Arduino, thus enabling the integration of these platforms. In this project, the Arduino acts as a PID controller, in order to control the positioning of the axis of a motor, in which beams are coupled to support some object so that the axis is always balance itself in the desired position regardless of the mass of the object (respecting engine limitations).
 
 [![Watch the video](cover.png)](https://www.youtube.com/watch?v=GCVrZ_-qaLQ)
 
